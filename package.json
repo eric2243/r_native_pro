@@ -4,10 +4,6 @@
   "description": "HiApp written with react-native.",
   "author": "BelinChung",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BelinChung/react-native-hiapp.git"
-  },
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
