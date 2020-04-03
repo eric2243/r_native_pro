@@ -1,11 +1,8 @@
 # react-native-hiapp
-[HiApp](https://github.com/BelinChung/HiApp) written in react-native.
 
 ## Previews
 
-[![preview](https://i.imgur.com/lrKgIMO.png)](https://youtu.be/C2hX8ruKS9o) 
 
-Mirrors: [秒拍](http://t.cn/Aim7kcIf) 
 
 ## Requirements
 
@@ -15,32 +12,25 @@ Mirrors: [秒拍](http://t.cn/Aim7kcIf)
 
 [VSCode extension for React Native](https://github.com/Microsoft/vscode-react-native) provides a development environment for React Native projects. You can debug your code, quickly run react-native commands from the command palette and use IntelliSense to browse objects, functions and parameters for React Native APIs.
 
-1. **Clone the repo**
-
-  ```
-  $ git clone https://github.com/BelinChung/react-native-hiapp.git
-  $ cd react-native-hiapp
-  ```
-
-2. **Install dependencies** :
+1. **Install dependencies** :
 
   ```
   $ yarn
   ```
 
-3. **Start Packager:**
+2. **Start Packager:**
 
   ```
   $ yarn start
   ```
 
-4. **Running on iOS:**
+3. **Running on iOS:**
 
   ```
   $ yarn ios
   ```
   
-5. **Running on Android**:
+4. **Running on Android**:
 
   ```
   $ yarn android
@@ -48,4 +38,3 @@ Mirrors: [秒拍](http://t.cn/Aim7kcIf)
 
 ## License
 
-Copyright (c) 2016 - 2019 Belin Chung. MIT Licensed, see [LICENSE](https://github.com/BelinChung/react-native-hiapp/blob/master/LICENSE) for details.
