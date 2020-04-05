@@ -13,8 +13,8 @@ const Skin = {
 }
 
 const App = {
-  devBaseUrl: 'https://raw.githubusercontent.com/BelinChung/api-mock/master/HiApp',
-  prodBaseUrl: 'https://raw.githubusercontent.com/BelinChung/api-mock/master/HiApp',
+  devBaseUrl: '',
+  prodBaseUrl: '',
   defaultNavigation: {
     headerStyle: {
       ...Platform.select({
